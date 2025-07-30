@@ -9,6 +9,7 @@ First program version.
 ### Added
 
 * Download html of eBook pages
+* Bottom menu for navigating between pages
 * Page zoom buttons
 * Italian language only
 
